@@ -1,0 +1,1 @@
+butterworth low pass filters, wavelet functions, RBM, Softmax
