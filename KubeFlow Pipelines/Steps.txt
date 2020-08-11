@@ -1,0 +1,5 @@
+export DEPLOYMENT_NAME=kf-codelab
+export PROJECT_ID=responsive-sun-280613
+export ZONE=us-central1-a
+gcloud config set project responsive-sun-280613
+gcloud config set compute/zone ${ZONE}
